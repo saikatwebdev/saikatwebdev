@@ -1,6 +1,5 @@
 # 💫 About Me:
 I'm Currently in my 1st year of B.Tech. Exploring stuffs and creating my own paths and goal to achieve.
-<a href="https://www.geamc.com/certificates/employee/CP-833DJLH31B" target="_blank" rel="noopener noreferrer"><img src="https://www.geamc.com/api/certificate-badge/CP-833DJLH31B" alt="GEAMC Verified Professional Excellence" style="width: 300px; height: 160px;" width="300" height="160" /></a>
 
 
 ## 🌐 Socials:
